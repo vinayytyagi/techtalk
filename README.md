@@ -79,7 +79,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Website](https://techtalk.vercel.app/)
+- [Live Website](https://techtalkai.vercel.app/)
 
 
 #
